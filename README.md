@@ -7,13 +7,11 @@
   <img alig src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
-- 🔭 I’m currently working on **recorrido virtual 360°**
 
 - 🌱 I’m currently learning **Software Development and Computer Security**
 
 - 📫 How to reach me **potosliping8@gmail.com**
 
-- ⚡ Fun fact **I like science fiction**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,4 +28,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryo-ma&layout=compact" />
 </div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sebas313313313&" alt="sebas313313313" /></p>
+
