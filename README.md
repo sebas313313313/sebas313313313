@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sebas313313313&label=Profile%20views&color=0e75b6&style=flat" alt="sebas313313313" /> </p>
 
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+  <img alig src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=6&rank=AAA,AA,A,B,C" />
 </p>
 
 
